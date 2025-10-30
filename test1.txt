@@ -179,10 +179,10 @@
 
 <!-- 🎞️ Slideshow Section -->
 <div class="slideshow-container" id="slideshow">
-  <img src="" alt="Vissu Maa 1">
-  <img src="C:\Users\SUBRAMANYAM\OneDrive\Desktop\Mnc s\WhatsApp Image 2025-10-30 at 16.17.25_2c1c5c15.jpg" alt="Vissu Maa 2">
-  <img src="C:\Users\SUBRAMANYAM\OneDrive\Desktop\Mnc s\WhatsApp Image 2025-10-30 at 16.17.25_46b1ea68.jpg" alt="Vissu Maa 3">
-  <img src="C:\Users\SUBRAMANYAM\OneDrive\Desktop\Mnc s\WhatsApp Image 2025-10-30 at 16.17.25_139d18d6.jpg" alt="Vissu Maa 4">
+  <img src="https://github.com/subbu67489-prog/Birthdaywishes/blob/8f444994debfa2ebbda52fc3c3b99a772141b84b/WhatsApp%20Image%202025-10-30%20at%2016.17.24_c40c7fa1.jpg" alt="Vissu Maa 1">
+  <img src="">
+  <img src="">
+  <img src="">
 </div>
 
 <!-- ✅ Working Happy Birthday Song -->
@@ -275,4 +275,5 @@ document.getElementById('musicToggle').addEventListener('click',()=>{
 
 </body>
 </html>
+
 
