@@ -186,7 +186,7 @@
 </div>
 
 <!-- ✅ Working Happy Birthday Song -->
-<audio id="bdaySong" src="c:\Users\SUBRAMANYAM\Downloads\happy-birthday-357371.mp3" type="audio/mpeg" loop></audio>
+<audio id="bdaySong" src="https://github.com/subbu67489-prog/Birthdaywishes/blob/475ad95923d4eb61f1cdc4bf312d71308a658d64/happy-birthday-357371.mp3" type="audio/mpeg" loop></audio>
 
 <marquee behavior="scroll" direction="left">
 🎊 Happy Birthday Angel 🧚 | Happy Birthday Cutee 💕 | Happy Birthday Maharani 👸🏻 | Happy Birthday Rakshasi 👻 | Happy Birthday Gaju Bomma ✨ | Happy Birthday Rowdy pilla 🤍 | Happy Birthday O₂ 🎊
@@ -275,6 +275,7 @@ document.getElementById('musicToggle').addEventListener('click',()=>{
 
 </body>
 </html>
+
 
 
 
